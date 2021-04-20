@@ -1,2 +1,2 @@
 # salamandr72-JS2020Q3
-Private repository for @salamandr72
+https://rolling-scopes-school.github.io/salamandr72-JS2020Q3/calculator
